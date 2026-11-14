@@ -1,189 +1,206 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mohamed%20Aziz%20Nasri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Graphic%20Designer&descSize=17&descAlignY=60" width="100%" alt="header"/>
+<img src="./assets/hero.svg" width="100%" alt="AZIZ - Silent. Precise. Relentless."/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aziz+%F0%9F%91%8B;Engineering+student+%40+ESPRIT+%F0%9F%87%B9%F0%9F%87%B3;I+build+modern+web+apps+with+Symfony%2C+React+%26+Next.js;I+design+interfaces+and+visual+identities;Curious+about+AI%2C+Cybersecurity+%26+Networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami;%3E+I+don't+introduce+myself.+I+ship.;%3E+Full-Stack+%C2%B7+AI+%C2%B7+IoT+%C2%B7+Design;%3E+Building+in+the+dark.+Shipping+in+the+light.;%3E+You+won't+see+me+coming." alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=3abch9leu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=000000)
+![Mode](https://img.shields.io/badge/MODE-STEALTH-9d4edd?style=for-the-badge&labelColor=000000)
+![Origin](https://img.shields.io/badge/ORIGIN-TUNISIA-ff0054?style=for-the-badge&labelColor=000000)
+![Visitors](https://komarev.com/ghpvc/?username=3abch9leu&label=SOULS%20OBSERVED&color=7b2cbf&style=for-the-badge&labelColor=000000)
 
-<br/><br/>
+<img src="./assets/net-divider-a.svg" width="100%" alt=""/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aziz%20Nasri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-nasri-0a279a271)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz228asri@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-3abch9leu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3abch9leu)
+<img src="./assets/h-identity.svg" width="100%" alt="IDENTITY"/>
 
 </div>
 
----
+```bash
+$ cat /etc/identity
 
-## 👨‍💻 About Me
-
-```yaml
-name:      Mohamed Aziz Nasri
-location:  Tunisia 🇹🇳
-studying:  Software Engineering (Cycle Ingénieur) @ ESPRIT, since 2023
-focus:     Web development · UI/UX · Graphic design
-exploring: Artificial Intelligence · Cybersecurity · Networks
-languages: Arabic (native) · English (fluent) · French (intermediate)
-looking_for: Internship / first professional experience 🚀
+┌──────────────────────────────────────────────────────┐
+│  ALIAS      :  3abch9leu                             │
+│  REAL NAME  :  Mohamed Aziz Nasri                    │
+│  CLASS      :  Software Engineer (in the making)    │
+│  GUILD      :  ESPRIT · Cycle Ingénieur · 2023→      │
+│  TONGUES    :  Arabic · English · French             │
+│  ARSENAL    :  Code · AI · Hardware · Design         │
+│  OBSESSION  :  Cybersecurity · Networks · Machines   │
+│  STATUS     :  Open to missions (internships)        │
+└──────────────────────────────────────────────────────┘
 ```
 
-I'm a rigorous and curious engineering student who enjoys turning ideas into polished products: from a clean database schema to a pixel-perfect interface. I'm currently looking for an **internship or first professional opportunity** where I can apply my technical and creative skills.
+> *Most people see the interface. I build what's behind it, and then I design the interface too.*
 
----
+<div align="center">
+<img src="./assets/net-divider-b.svg" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+<img src="./assets/h-roles.svg" width="100%" alt="ROLES I OPERATE IN"/>
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,cpp,mysql&theme=dark" alt="languages"/>
-</p>
+![Frontend](https://img.shields.io/badge/FRONTEND-0d0221?style=for-the-badge&logo=react&logoColor=00ff9c)
+![Backend](https://img.shields.io/badge/BACKEND-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=00ff9c)
+![Data/AI](https://img.shields.io/badge/DATA%20%2F%20AI-0d0221?style=for-the-badge&logo=python&logoColor=00ff9c)
+![Design/UX](https://img.shields.io/badge/DESIGN%20%2F%20UX-0d0221?style=for-the-badge&logo=figma&logoColor=00ff9c)
+![Hardware/IoT](https://img.shields.io/badge/HARDWARE%20%2F%20IoT-0d0221?style=for-the-badge&logo=arduino&logoColor=00ff9c)
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=symfony,react,nextjs,bootstrap,html,css&theme=dark" alt="frameworks"/>
-</p>
+<img src="./assets/net-divider-a.svg" width="100%" alt=""/>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark" alt="databases"/>
-</p>
+<img src="./assets/h-arsenal.svg" width="100%" alt="ARSENAL"/>
 
-### Design & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode&theme=dark" alt="design and tools"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
-</p>
+**`[ LANGUAGES ]`**
 
-### Networking
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-2C5364?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-203A43?style=for-the-badge)
-![DHCP](https://img.shields.io/badge/DHCP-0F2027?style=for-the-badge)
-![NAT](https://img.shields.io/badge/NAT-34495E?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,cpp&theme=dark" alt="languages"/>
 
----
+**`[ FRONTEND ]`**
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,html,css&theme=dark" alt="frontend"/>
+
+**`[ BACKEND ]`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,symfony,docker&theme=dark" alt="backend"/>
+
+**`[ DATA ]`**
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark" alt="data"/>
+
+**`[ HARDWARE ]`**
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="hardware"/>
+
+**`[ DESIGN ]`**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="design"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
+
+**`[ NETWORK ]`**
+
+![Cisco](https://img.shields.io/badge/CISCO-0d0221?style=for-the-badge&logo=cisco&logoColor=00ff9c)
+![OSPF](https://img.shields.io/badge/OSPF-0d0221?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-0d0221?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-0d0221?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT-0d0221?style=for-the-badge)
+
+**`[ ALSO ]`**
+
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-9d4edd?style=for-the-badge&labelColor=000000)
+![Business Model](https://img.shields.io/badge/BUSINESS%20MODEL-9d4edd?style=for-the-badge&labelColor=000000)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-9d4edd?style=for-the-badge&labelColor=000000)
+![FullStack](https://img.shields.io/badge/FULLSTACK-9d4edd?style=for-the-badge&labelColor=000000)
+
+<img src="./assets/net-divider-b.svg" width="100%" alt=""/>
+
+<img src="./assets/h-projects.svg" width="100%" alt="DECLASSIFIED PROJECTS"/>
+
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🎓 EduTech
-**Desktop educational platform**
+### 🎓 `EDUTECH`
+**Classification: Desktop · AI-powered**
 
-Multi-screen app (login, dashboard, admin back-office) with:
-- 🧠 Adaptive quizzes with analytics tracking
-- 🗓️ Room booking & scheduling system
-- 🎙️ AI voice assistant (speech recognition & synthesis, natural-language commands)
-- 📹 Real-time video chat (webcam, UDP audio/video streaming, peer-to-peer rooms)
-- 🛠️ Full back-office: courses, quizzes, users, bookings, rooms & equipment
+An educational platform that listens, adapts and connects.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-2C5364?style=flat-square)
-![Vosk](https://img.shields.io/badge/Vosk-AI-8A2BE2?style=flat-square)
-![UDP](https://img.shields.io/badge/UDP-Streaming-0e75b6?style=flat-square)
+- 🧠 Adaptive quizzes with analytics
+- 🎙️ AI voice assistant: speak, it obeys
+- 📹 Real-time P2P video chat over UDP
+- 🗓️ Room booking & scheduling
+- 🛠️ Full admin back-office
+
+`Java` `JavaFX` `FXML` `Vosk` `UDP` `AI`
 
     </td>
     <td width="50%" valign="top">
 
-### 💊 Smart Pharmacy
-**Pharmacy management web app**
+### 💊 `SMART PHARMACY`
+**Classification: Web · Management**
 
-Complete solution to manage:
-- 📦 Stock & inventory
-- 💰 Sales
-- 📄 Prescriptions
+Stock, sales and prescriptions under total control.
 
-Built as part of my engineering curriculum with a clean MVC architecture.
+- 📦 Inventory tracking
+- 💰 Sales management
+- 📄 Prescription handling
+- 🧱 Clean MVC architecture
 
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+`PHP` `Symfony` `MySQL` `Bootstrap` `JavaScript`
 
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
 
-### 🌐 Enterprise Network
-**Network design & simulation**
+### 🌐 `ENTERPRISE NETWORK`
+**Classification: Infrastructure · Simulation**
 
-Design and simulation of a company network topology in Cisco Packet Tracer: **OSPF routing, VPN, DHCP and NAT addressing**.
+A full corporate topology designed and simulated end to end: **OSPF routing, VPN tunnels, DHCP and NAT.**
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Routing](https://img.shields.io/badge/OSPF-Routing-2C5364?style=flat-square)
-![VPN](https://img.shields.io/badge/VPN-203A43?style=flat-square)
+`Cisco Packet Tracer` `OSPF` `VPN` `DHCP` `NAT`
 
     </td>
   </tr>
 </table>
 
-> 📌 *Pin your best repositories on your profile to showcase them here!*
-
----
-
-## 🗺️ My Journey
-
-```mermaid
-timeline
-    title Engineering Path @ ESPRIT
-    2023 : Started the Software Engineering cycle
-    2024 : Building applications in Java
-    2025 : Web projects with Symfony
-    2026 : Learning Next.js : Personal projects
-```
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
+<img src="./assets/net-divider-a.svg" width="100%" alt=""/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=3abch9leu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3abch9leu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3abch9leu&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=3abch9leu&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-
+<img src="./assets/h-log.svg" width="100%" alt="THE LOG"/>
 </div>
 
----
-
-## 🎯 Currently
-
-- 🔭 Deepening my skills in **Next.js** and building personal projects
-- 🌱 Exploring **AI**, **cybersecurity** and **networks**
-- 🎨 Creating designs with **Figma**, **Photoshop** and **Illustrator**
-- 💼 Open to **internships** and first professional experiences
-
-## 🎮 Beyond the Code
-
-`UI/UX Design` · `Graphic Design` · `Cybersecurity` · `Sport` · `Video Games`
-
----
+```diff
++ 2023  ·  Entered the engineering cycle. The path begins.
++ 2024  ·  Mastered Java. Built desktop applications.
++ 2025  ·  Conquered the web with Symfony.
++ 2026  ·  Next.js. Personal projects. Something bigger is coming.
+- ????  ·  [REDACTED]
+```
 
 <div align="center">
+<img src="./assets/net-divider-b.svg" width="100%" alt=""/>
 
-### 🤝 Let's connect!
+<img src="./assets/h-signal.svg" width="100%" alt="SIGNAL STRENGTH"/>
 
-*Got an opportunity, an idea or just want to say hi? My inbox is open.*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=3abch9leu&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff9c&icon_color=9d4edd&text_color=c9d1d9&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3abch9leu&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff9c&text_color=c9d1d9" alt="languages"/>
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-nasri-0a279a271)
-[![Email](https://img.shields.io/badge/-Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz228asri@gmail.com)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3abch9leu&theme=radical&hide_border=true&background=000000&ring=9d4edd&fire=ff0054&currStreakLabel=00ff9c" alt="streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=3abch9leu&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+
+<img src="./assets/net-divider-a.svg" width="100%" alt=""/>
+
+<img src="./assets/h-mission.svg" width="100%" alt="CURRENT MISSION"/>
+</div>
+
+```text
+[■■■■■■■■□□]  Mastering Next.js & building something unreal
+[■■■■■■□□□□]  Going deeper into AI / ML
+[■■■■■□□□□□]  Cybersecurity & network warfare
+[■■■■■■■□□□]  Hardware × software: IoT experiments
+```
+
+> 🕶️ **Open to internships.** If your team needs someone who builds the whole thing, from the circuit to the pixels, you know where to find me.
+
+<div align="center">
+<img src="./assets/net-divider-b.svg" width="100%" alt=""/>
+
+<img src="./assets/h-contact.svg" width="100%" alt="ESTABLISH CONTACT"/>
+
+*I don't reply to noise. I reply to ideas.*
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/aziz-nasri-0a279a271)
+[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=ff0054)](mailto:aziz228asri@gmail.com)
+
+`Sport` · `Gaming` · `UI/UX` · `Graphic Design` · `Cybersecurity`
+
+<img src="./assets/footer.svg" width="100%" alt="The best work is done in silence."/>
 
 </div>
