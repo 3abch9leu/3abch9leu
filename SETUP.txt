@@ -1,0 +1,25 @@
+SHADOW FEED - setup (5 minutes)
+
+Upload these to github.com/3abch9leu/3abch9leu (main branch):
+
+  README.md
+  scripts/generate.py
+  .github/workflows/shadow-feed.yml
+  art/            (optional: first version of the images, the workflow rebuilds them anyway)
+
+IF YOU ALREADY UPLOADED THE PREVIOUS "living-sky" VERSION:
+  delete  .github/workflows/living-sky.yml  and replace scripts/generate.py,
+  otherwise two workflows will fight over the art/ folder.
+
+TIP: if the web uploader will not take the hidden .github folder, open
+"Add file > Create new file", type  .github/workflows/shadow-feed.yml  as the
+file name (typing the slashes creates the folders) and paste the contents.
+Do the same for scripts/generate.py.
+
+Then:
+  1. Open the Actions tab and, if asked, click "I understand my workflows, enable them".
+  2. Pick "shadow-feed" on the left, click Run workflow. After ~30 seconds the art is rebuilt.
+  3. If the run fails on "git push": Settings > Actions > General > Workflow permissions
+     > "Read and write permissions" > Save, then run it again.
+
+After that it refreshes itself every 3 hours.
